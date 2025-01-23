@@ -9,9 +9,6 @@
 - 🌍 Personal website: [Visit here](#).  
 - 🚀 Open to an **internship** or **new job opportunities**: [View my resume](#).  
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
 
 ---
 
@@ -37,10 +34,10 @@
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </p>
 
----
+
 
 ### **Backend Development**  
-<p align="right">
+<p align="left">
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -49,7 +46,7 @@
     <img src="https://img.shields.io/badge/Microservices-%2300599C.svg?style=for-the-badge" alt="Microservices">
 </p>
 
----
+
 
 ### **Tools and Software**  
 <p align="left">
@@ -62,7 +59,7 @@
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 </p>
 
----
+
 
 ## Connect with Me  
 <p align="left">
