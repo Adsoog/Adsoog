@@ -1,14 +1,12 @@
 <h1 align="center"><b>Hi, I'm Adso Martin Obregon Gutierrez</b> <img src="https://media.giphy.com/media/3o6ZsYm5n5WdGpzE0g/giphy.gif" width="35"></h1>
 
-## About Me
+### About Me
 - 🖥️ A passionate **Software Developer**.  
 - 🌐 **2 years of experience** in web development.  
 - 📚 Currently learning **Data Science** and **AI**.  
 - 🌍 Personal website: [Visit here](#).  
 - 🚀 Open to an **internship** or **new job opportunities**: [View my resume](#).  
 
-
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
 
@@ -58,7 +56,7 @@
 
 
 
-## **Connect with Me**  
+### **Connect with Me**  
 <p align="left">
     <a href="https://twitter.com/" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
